@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "624863705463",
+    "firebase_url": "https://caringhopesapp.firebaseio.com",
+    "project_id": "caringhopesapp",
+    "storage_bucket": "caringhopesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624863705463:android:d661fbc35fb746782dc972",
+        "android_client_info": {
+          "package_name": "com.caringhopes.caringhopesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624863705463-6rg7bs4966f3ievdeul4l74sadhpi56g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkdXgellG2hySMiGGbpMCXvzDE_9K91Q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624863705463-6rg7bs4966f3ievdeul4l74sadhpi56g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
